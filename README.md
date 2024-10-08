@@ -12,11 +12,9 @@ O site apresenta várias páginas conectadas que mostram informações detalhada
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **React**: 
-- ****: Biblioteca principal para construção da interface de usuário.
+- **React**: Biblioteca principal para construção da interface de usuário.
 - **React Router**: Para navegação entre as diferentes páginas.
-- ****: Para tipagem estática e melhoria do fluxo de desenvolvimento.
-- **TypeScript**: 
+- **TypeScript**: Para tipagem estática e melhoria do fluxo de desenvolvimento.
 - **Tailwind CSS**: Para estilização e design responsivo.
 - **Vite**: Ferramenta de build rápida e eficiente para desenvolvimento.
 - **JSON**: Base de dados para as informações de destinos, tripulação e tecnologias.
