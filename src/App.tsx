@@ -1,8 +1,13 @@
-
-import './index.css'
+import { Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import { Destination } from "./pages/Destination";
+import "./index.css";
 
 export default function App() {
- return (
-  <h1>Hello World!</h1>
- )
+  return (
+    <Routes>
+      <Route path="/" element={Home} />
+      <Route path="/destination" element={Destination} />
+    </Routes>
+  );
 }
